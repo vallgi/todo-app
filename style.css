@@ -1,0 +1,44 @@
+.image{
+    background-image: url("/todo-app-main/images/bg-desktop-dark.jpg");
+    width:100%;
+    height:auto;
+    padding: 10%;
+    background-repeat: no-repeat;
+}
+#demo{
+    background-color:hsl(233, 14%, 35%);
+    border: 1px solid black;
+    gap: 3px;
+}
+
+/* .list{
+    
+    display:flex;
+    flex-direction: row;
+     */
+
+}
+.ul:hover{
+    background-color: blue;
+}
+.list{
+    
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    justify-content:space-around;
+    align-items: center;
+    background-color: hsl(237, 14%, 26%) ;
+}
+.all:hover{
+    background-color: blue;
+}
+
+.section1{
+    background-color:hsl(237, 14%, 26%) ;
+
+    
+    
+
+}
